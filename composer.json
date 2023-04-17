@@ -37,10 +37,7 @@
   "autoload": {
     "psr-4": {
       "Tedon\\LaravelRandomizer\\": "src"
-    },
-    "files": [
-      "src/helpers.php"
-    ]
+    }
   },
   "autoload-dev": {
   },
