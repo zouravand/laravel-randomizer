@@ -1,6 +1,6 @@
 {
   "name": "tedon/laravel-randomizer",
-  "description": "A brand option to have specific action fields in model.",
+  "description": "Generate random things but valid.",
   "license": "MIT",
   "authors": [
     {
