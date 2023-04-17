@@ -1,2 +1,2 @@
-# laravel-randomizer
+# Laravel Randomizer
 Generate random valid things.
